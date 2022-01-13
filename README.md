@@ -4,4 +4,6 @@
 
 É um Chatbot simples, com um simples formulário para entrada de informação e um botão de enviar, você pode enviar mensagens para o sistema ele realize uma breve consulta no banco de dados  para achar uma resposta adequada, caso a mensagem não seja entendida ele retorna uma mensagem padrão
 
+ <img width="100%" style="border-radius: 5px" height="auto" src="https://hylla.com.br/gif/chatbot.gif" alt="Intro">
+
 
